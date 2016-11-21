@@ -1,0 +1,20 @@
+﻿  mysocketclient.c
+c:\users\hxm\desktop\sim_project\sim_project\sim_project\mysocketclient.c(55): warning C4101: “c”: 未引用的局部变量
+c:\users\hxm\desktop\sim_project\sim_project\sim_project\mysocketclient.c(269): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hxm\desktop\sim_project\sim_project\sim_project\mysocketclient.c(428): warning C4033: “read_respond”必须返回值
+c:\users\hxm\desktop\sim_project\sim_project\sim_project\mysocketclient.c(435): warning C4033: “read_respond”必须返回值
+c:\users\hxm\desktop\sim_project\sim_project\sim_project\mysocketclient.c(442): warning C4033: “read_respond”必须返回值
+c:\users\hxm\desktop\sim_project\sim_project\sim_project\mysocketclient.c(449): warning C4033: “read_respond”必须返回值
+c:\users\hxm\desktop\sim_project\sim_project\sim_project\mysocketclient.c(465): warning C4033: “read_respond”必须返回值
+  main.c
+  iotgo_communicate_with_long_server.c
+  正在生成代码...
+c:\users\hxm\desktop\sim_project\sim_project\sim_project\iotgo_communicate_with_long_server.c(71): warning C4715: “sendregistermessage”: 不是所有的控件路径都返回值
+c:\users\hxm\desktop\sim_project\sim_project\sim_project\mysocketclient.c(228): warning C4715: “readFromServer”: 不是所有的控件路径都返回值
+c:\users\hxm\desktop\sim_project\sim_project\sim_project\mysocketclient.c(187): warning C4715: “connectToServer”: 不是所有的控件路径都返回值
+c:\users\hxm\desktop\sim_project\sim_project\sim_project\mysocketclient.c(361): warning C4715: “check_connect_status”: 不是所有的控件路径都返回值
+c:\users\hxm\desktop\sim_project\sim_project\sim_project\mysocketclient.c(469): warning C4715: “read_respond”: 不是所有的控件路径都返回值
+c:\users\hxm\desktop\sim_project\sim_project\sim_project\mysocketclient.c(574): warning C4715: “open_heart_packet”: 不是所有的控件路径都返回值
+c:\users\hxm\desktop\sim_project\sim_project\sim_project\mysocketclient.c(593): warning C4715: “close_heart_packet”: 不是所有的控件路径都返回值
+  sim_project.vcxproj -> C:\Users\hxm\Desktop\sim_project\sim_project\Debug\sim_project.exe
+  sim_project.vcxproj -> C:\Users\hxm\Desktop\sim_project\sim_project\Debug\sim_project.pdb (Full PDB)
